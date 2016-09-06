@@ -1,0 +1,40 @@
+
+-------------------------------------------------------------------------------
+INFORMACIÓN SOBRE LOS CONTENIDOS DE ESTE DVD
+-------------------------------------------------------------------------------
+
+Para acceder al inicio del catálogo de materiales, abra la página index.html
+en un navegador Web de su elección. Para visualizar los videos, necesitará
+tener en su ordenador instalado Quicktime Player. La ejecución de los videos
+no es soportada por todos los navegadores Web. Usted puede descargar Quicktime
+siguiendo este enlace: https://www.apple.com/la/quicktime/
+
+ 
+Los materiales se distribuyen en las siguientes carpetas:
+
+
+/documentos		Documento del Plan Nacional de Formación
+/librosCiencias		Materiales de Autoformación en Ciencias
+/liborsMatematica	Materiales de Autoformación en Matemática
+/videosCiencias		Videos de ciencias, primera producción
+/videosCienc...02	Videos de Ciencias, Segunda producción
+/videosMatem...01	videos de Matemática, primera producción
+/videosMatem...02	videos de Matemática, segunda producción
+
+-------------------------------------------------------------------------------
+LICENCIA DE USO. 
+-------------------------------------------------------------------------------
+
+Usted puede utilizar, reproducir y reutilizar los materiales de este DVD, en 
+parte o en su totalidad, para propósitos educativos no-comerciales siempre y 
+cuando se dé créditos a la Gerencia de Educación en Ciencia, Tecnología e 
+Innovación del Viceministerio de Ciencia y tecnología del Ministerio de 
+Educación de la República de El Salvador o a sus autores de acuerdo a los 
+créditos que aparecen en cada material.
+
+Todos los derechos reservados. Ministerio de Educación de la República de 
+El Salvador, 2015.  
+
+-------------------------------------------------------------------------------
+
+Última Actualización 2015-01-22
